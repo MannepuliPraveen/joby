@@ -1,0 +1,86 @@
+.jobsRoute {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/home-lg-bg.png');
+  min-height: 100vh;
+}
+.filters {
+  width: 20%;
+  padding: 30px;
+}
+.profileContainer {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  height: 150px;
+  width: 150px;
+  background-size: cover;
+}
+
+.lines {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.employmentSalaryTitle {
+  font-size: 17px;
+  color: white;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
+.employmentSalaryDetailsContainer {
+  list-style-type: none;
+  padding-left: 0px;
+  margin-left: 0px;
+}
+.employeSalaryInput {
+  margin-right: 5px;
+}
+.employeSalaryLabels {
+  color: white;
+  margin-left: 10px;
+}
+.jobsDetailsRoute {
+  width: 70%;
+}
+.jobPortal {
+  display: flex;
+  justify-content: space-between;
+  padding: 50px;
+}
+.jobs {
+  background-color: #202020;
+  padding: 50px;
+  margin-bottom: 10px;
+}
+.jobsDetails {
+  list-style-type: none;
+  padding-left:0px;
+  margin-left:0px;
+}
+.companyLogo {
+  height: 50px;
+  width: 50px;
+  margin-right: 5px;
+}
+.companyDetails {
+  display: flex;
+  align-items: center;
+}
+.rating {
+  display: flex;
+  align-items: center;
+  margin-top: 0px;
+  padding-top: 0px;
+}
+.titleRating {
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}
+.locationTypePackage {
+  display: flex;
+  justify-content: space-between;
+  align-items: Center;
+}
+.locationType {
+  display: flex;
+}
+.employementType {
+  color: white;
+  margin-left: 10px;
+}

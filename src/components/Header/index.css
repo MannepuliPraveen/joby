@@ -1,0 +1,38 @@
+.headerComp {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #272727;
+  padding: 30px;
+}
+.headerOptions {
+  display: flex;
+  align-items: center;
+  list-style-type: none;
+}
+.option {
+  margin-left: 10px;
+  margin-right: 10px;
+  color: white;
+  font-size: 20px;
+  font-weight: 500;
+}
+.websiteLogo {
+  height: 50px;
+  width: 150px;
+}
+.logoutBtn {
+  height: 50px;
+  width: 150px;
+  padding: 10px;
+  font-size: 25px;
+  color: white;
+  background-color: #4f46e5;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+.optionLink{
+  text-decoration:none;
+  color:white;
+}
